@@ -1,0 +1,7 @@
+{
+  "jwtKey": "carrent_jwtKey",
+  "dbHost": "dbHost",
+  "dbName": "dbName",
+  "dbUser": "dbUser",
+  "dbPassword": "dbPassword"
+}
