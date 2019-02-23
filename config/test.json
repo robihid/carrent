@@ -1,0 +1,7 @@
+{
+  "jwtKey": "1234",
+  "dbHost": "localhost",
+  "dbName": "carrent",
+  "dbUser": "gwp",
+  "dbPassword": "gwp"
+}
